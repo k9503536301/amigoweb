@@ -1,0 +1,7 @@
+.header a{
+    color:#808080;
+}
+
+header a.active{
+    color: blue
+}
